@@ -16,7 +16,7 @@ Sebelum menyalin kode, pahami hierarki objek di Matplotlib:
 
 ## Persiapan Dataset
 
-Untuk contoh-contoh di bawah, kita akan menggunakan dataset penjualan produk. Download dataset: [penjualan.csv](/visdata/datasets/penjualan.csv)
+Untuk contoh-contoh di bawah, kita akan menggunakan dataset penjualan produk. Download dataset: [penjualan.csv](/datasets/penjualan.csv)
 
 ```python
 import matplotlib.pyplot as plt

@@ -11,7 +11,7 @@ Jika Matplotlib adalah "mesin", maka Seaborn adalah "interface mewah"-nya. Seabo
 
 ## Dataset untuk Praktik
 
-Kita akan menggunakan dataset mahasiswa. Download: [mahasiswa.csv](/visdata/datasets/mahasiswa.csv)
+Kita akan menggunakan dataset mahasiswa. Download: [mahasiswa.csv](/datasets/mahasiswa.csv)
 
 ```python
 import seaborn as sns

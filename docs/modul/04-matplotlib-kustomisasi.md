@@ -4,7 +4,7 @@ Grafik default Matplotlib seringkali terlihat kaku dan kurang menarik. Di modul 
 
 ## Dataset untuk Praktik
 
-Kita akan melanjutkan menggunakan dataset penjualan dari modul sebelumnya. Pastikan Anda sudah mendownload [penjualan.csv](/visdata/datasets/penjualan.csv).
+Kita akan melanjutkan menggunakan dataset penjualan dari modul sebelumnya. Pastikan Anda sudah mendownload [penjualan.csv](/datasets/penjualan.csv).
 
 ```python
 import matplotlib.pyplot as plt
