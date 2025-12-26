@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+    base: '/visdata/',
     title: "Goa Ilmu Pemrograman",
     description: "Modul komprehensif pembelajaran visualisasi data Python di Goa Ilmu Pemrograman.",
     lang: 'id-ID',
